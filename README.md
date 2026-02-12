@@ -40,10 +40,13 @@ Step 3: Verify Data in Data View
 
 REPORT VIEW
 <img width="734" height="656" alt="image" src="https://github.com/user-attachments/assets/4889d152-be21-4e9b-bd7a-7311f745f274" />
+
 DATA VIEW
 <img width="188" height="246" alt="image" src="https://github.com/user-attachments/assets/a12fce5c-a992-470d-a9a3-8fbca903c9b2" />
+
 MODEL VIEW
 <img width="430" height="301" alt="image" src="https://github.com/user-attachments/assets/e7f61590-3262-45cc-be5d-1bcce332e1c1" />
+
 Switch back to Report View.
 
 PART 3: Creating Auto-Generated Visuals
