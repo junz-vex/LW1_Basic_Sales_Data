@@ -38,7 +38,21 @@ Step 3: Verify Data in Data View
    PART 2: Exploring the Interface
 <img width="377" height="113" alt="image" src="https://github.com/user-attachments/assets/1b542623-b767-4fa1-8ae7-d9a1b70cf096" />
 
+REPORT VIEW
+<img width="734" height="656" alt="image" src="https://github.com/user-attachments/assets/4889d152-be21-4e9b-bd7a-7311f745f274" />
+DATA VIEW
+<img width="188" height="246" alt="image" src="https://github.com/user-attachments/assets/a12fce5c-a992-470d-a9a3-8fbca903c9b2" />
+MODEL VIEW
+<img width="430" height="301" alt="image" src="https://github.com/user-attachments/assets/e7f61590-3262-45cc-be5d-1bcce332e1c1" />
 Switch back to Report View.
+
+PART 3: Creating Auto-Generated Visuals
+Step 1: Quick Visualization
+1. Drag Sales into canvas
+   <img width="1919" height="786" alt="image" src="https://github.com/user-attachments/assets/c5481c11-56b3-43f4-9095-d0acc2d9a9ad" />
+3. Power BI automatically creates a visual
+   <img width="1919" height="725" alt="image" src="https://github.com/user-attachments/assets/150e438f-94c3-44a2-b83b-22b74bea274f" />
+
 
 
 
