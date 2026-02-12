@@ -24,8 +24,10 @@ Step 3: Verify Data in Data View
    <img width="580" height="617" alt="image" src="https://github.com/user-attachments/assets/6ae176c6-d341-465d-88c5-7d0d13563476" />  
 2. Check:
    ○ Are all columns visible? yes
-   ○ Is “Date” formatted as Date? yes
-   ○ Is “Sales” formatted as Decimal Number? yes
+   ○ Is “Date” formatted as Date?
+   yes
+   ○ Is “Sales” formatted as Decimal Number?
+   yes
    <img width="627" height="376" alt="image" src="https://github.com/user-attachments/assets/f1ae2c51-ce9c-46db-8bdb-4edf3d2ee4d8" />
 1. Click the column
 2. Go to Column Tools
@@ -53,8 +55,18 @@ PART 3: Creating Auto-Generated Visuals
 Step 1: Quick Visualization
 1. Drag Sales into canvas
    <img width="1919" height="786" alt="image" src="https://github.com/user-attachments/assets/c5481c11-56b3-43f4-9095-d0acc2d9a9ad" />
-3. Power BI automatically creates a visual
-   <img width="1919" height="725" alt="image" src="https://github.com/user-attachments/assets/150e438f-94c3-44a2-b83b-22b74bea274f" />
+2. Power BI automatically creates a visual
+  Question:
+● What type of chart was created?
+ Stacked bar chart
+● What does it show?
+stacked chart for Sum of sale
+
+Step 2: Create a Sales by Region Chart
+1. Click blank canvas
+2. Select Clustered Column Chart
+   <img width="1918" height="769" alt="image" src="https://github.com/user-attachments/assets/e6a4a676-ad95-4c79-b07d-fb34d759e3d0" />
+
 
 
 
