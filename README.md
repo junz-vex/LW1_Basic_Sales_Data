@@ -1,4 +1,4 @@
-# LW1_Basic_Sales_Data
+<img width="1918" height="769" alt="image" src="https://github.com/user-attachments/assets/8653f8ca-6459-4a06-8f9f-2559179cfbec" /># LW1_Basic_Sales_Data
 Getting Started with Power BI – Loading and Exploring Data
 
 Step 1: Open Power BI Desktop
@@ -25,12 +25,11 @@ Step 3: Verify Data in Data View
 2. Check:
    ○ Are all columns visible? yes
    
-   ○ Is “Date” formatted as Date?
+   ○ Is “Date” formatted as Date? yes
    
-   yes
-   ○ Is “Sales” formatted as Decimal Number?
+   ○ Is “Sales” formatted as Decimal Number? yes
    
-   yes
+
    <img width="627" height="376" alt="image" src="https://github.com/user-attachments/assets/f1ae2c51-ce9c-46db-8bdb-4edf3d2ee4d8" />
 1. Click the column
 2. Go to Column Tools
