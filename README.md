@@ -71,7 +71,9 @@ Step 2: Create a Sales by Region Chart
 
 3. Drag:
 ○ Region → X-axis
+
 ○ Sales → Values
+<img width="1900" height="732" alt="image" src="https://github.com/user-attachments/assets/1c9f47d3-06b1-4cab-ab0c-5e1dfd22fe2a" />
 
 
 
