@@ -69,6 +69,10 @@ Step 2: Create a Sales by Region Chart
 2. Select Clustered Column Chart
    <img width="1918" height="769" alt="image" src="https://github.com/user-attachments/assets/e6a4a676-ad95-4c79-b07d-fb34d759e3d0" />
 
+3. Drag:
+○ Region → X-axis
+○ Sales → Values
+
 
 
 
