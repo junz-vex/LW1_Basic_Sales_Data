@@ -24,9 +24,12 @@ Step 3: Verify Data in Data View
    <img width="580" height="617" alt="image" src="https://github.com/user-attachments/assets/6ae176c6-d341-465d-88c5-7d0d13563476" />  
 2. Check:
    ○ Are all columns visible? yes
+   
    ○ Is “Date” formatted as Date?
+   
    yes
    ○ Is “Sales” formatted as Decimal Number?
+   
    yes
    <img width="627" height="376" alt="image" src="https://github.com/user-attachments/assets/f1ae2c51-ce9c-46db-8bdb-4edf3d2ee4d8" />
 1. Click the column
