@@ -11,8 +11,9 @@ Step 2: Load the Dataset
 1. Click Home Tab
 2. Click Get Data
    <img width="1883" height="999" alt="image" src="https://github.com/user-attachments/assets/4fa966b1-4628-4c2e-a662-d3a06c0d2523" />
-<img width="1883" height="999" alt="image" src="https://github.com/user-attachments/assets/4fa966b1-4628-4c2e-a662-d3a06c0d2523" />
-
 4. Select Text/CSV
+   <img width="1700" height="942" alt="image" src="https://github.com/user-attachments/assets/6931c3f3-0677-4c92-9372-7a49a642ed73" />
+
+
 
 
