@@ -224,6 +224,49 @@ Answer:I would prioritize the South region to investigate why its performance la
 
 Answer:Implement Year-to-Date (YTD) tracking: Since comparing a full year (2024) to a partial year (2025) creates a misleading downward trend, the business should use YTD comparisons to accurately measure growth.
 
+ENHANCEMENT SECTION
+
+Advanced Exploration
+
+Students must perform the following:
+
+Task 1: Add a Card Visualization
+
+1. Insert Card
+
+2. Drag Sales
+
+3. Format:
+
+○ Increase font size
+
+○ Change title to “Total Sales”
+
+<img width="296" height="239" alt="image" src="https://github.com/user-attachments/assets/48dc888d-b851-4a8b-b009-297fb4b4e8a0" />
+
+Question:
+
+● What is the total sales amount?
+
+Answer:220k
+
+Task 2: Add Slicer
+
+1. Insert Slicer
+
+2. Drag Region
+
+3. Test filtering
+
+<img width="1353" height="744" alt="image" src="https://github.com/user-attachments/assets/cff0d410-efd1-4d1f-b5af-f270f48c9d76" />
+
+Question:
+
+● What happens to other visuals when you click a region?
+
+● Why is filtering important in BI?
+
+
    
 
 
