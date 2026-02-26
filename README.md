@@ -94,9 +94,38 @@ Step 3: Sales by Category:
 
 Question:
 
+*Which category dominates?
+
+answer:Electronics
+
+*Is the distribution balanced?
+
+answer:no
+
+Step 4: Sale over time
+
+1.Insert line chart
+
+2.drag
+
+*date- X axis
+
+*sales- Values
+
+<img width="448" height="349" alt="image" src="https://github.com/user-attachments/assets/ab03c4c9-57d7-48e4-b171-1016ce2e354a" />
+
+
+Question:
+
 *Is there growth?
 
-*Any noticeable trend?
+answer:
+
+*Any noticeable trends?
+
+answer:
+
+
    
 
 
