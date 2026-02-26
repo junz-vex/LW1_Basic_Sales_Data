@@ -1,4 +1,4 @@
-<img width="1918" height="769" alt="image" src="https://github.com/user-attachments/assets/8653f8ca-6459-4a06-8f9f-2559179cfbec" /># LW1_Basic_Sales_Data
+# LW1_Basic_Sales_Data
 Getting Started with Power BI – Loading and Exploring Data
 
 Step 1: Open Power BI Desktop
