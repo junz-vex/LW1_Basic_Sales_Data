@@ -60,7 +60,8 @@ Step 1: Quick Visualization
 2. Power BI automatically creates a visual
   Question:
 ● What type of chart was created?
- Stacked bar chart
+Clustered Column Chart
+ 
 ● What does it show?
 stacked chart for Sum of sale
 
@@ -76,6 +77,7 @@ Step 2: Create a Sales by Region Chart
 <img width="1900" height="732" alt="image" src="https://github.com/user-attachments/assets/1c9f47d3-06b1-4cab-ab0c-5e1dfd22fe2a" />
 
 Question:
+
 *Is there growth?
 
 *Any noticeable trend?
