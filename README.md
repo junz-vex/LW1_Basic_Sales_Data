@@ -183,44 +183,44 @@ answer:No, sales are not consistent across dates because the data for 2025 is cu
 answer:recommendation is to adjust the report to compare Year-to-Date (YTD) performance (e.g., January 2024 vs. January 2025) to avoid the "cliff effect" caused by comparing a full year of historical data against an incomplete current year.
 
 Part A – Technical Questions
-What are the five columns in the dataset?
+●What are the five columns in the dataset?
 
 Answer:The columns are Date, Region, Product, Sales, and Quantity.
 
-What data type is assigned to the "Sales" column?
+●What data type is assigned to the "Sales" column?
 
 Answer:In Power BI, it is assigned as a Decimal Number (or Currency).
 
-Which Power BI view allows you to see raw data?
+●Which Power BI view allows you to see raw data?
 
 Answer:The Table view (formerly Data view).
 
-What chart type is best for showing trends over time?
+●What chart type is best for showing trends over time?
 
 Answer:A Line chart.
 
-What aggregation is automatically applied to Sales?
+●What aggregation is automatically applied to Sales?
 
 Answer:The Sum aggregation.
 
 Part B – Analytical Questions
-Which region has the highest total sales?
+●Which region has the highest total sales?
 
 Answer:Based on the dataset, North consistently shows the highest sales volume.
 
-Which category has the lowest performance?
+●Which category has the lowest performance?
 
 Answer:The South region and the Accessories product category show the lowest performance metrics.
 
-Are sales increasing, decreasing, or stable?
+●Are sales increasing, decreasing, or stable?
 
 Answer:Sales appear to be decreasing sharply on the year-over-year chart; however, this is a "false" trend because 2025 only contains January data while 2024 contains a full year.
 
-If you were a manager, which region would you prioritize?
+●If you were a manager, which region would you prioritize?
 
 Answer:I would prioritize the South region to investigate why its performance lags significantly behind the North and West.
 
-Provide one actionable recommendation based on the data.
+●Provide one actionable recommendation based on the data.
 
 Answer:Implement Year-to-Date (YTD) tracking: Since comparing a full year (2024) to a partial year (2025) creates a misleading downward trend, the business should use YTD comparisons to accurately measure growth.
 
