@@ -18,11 +18,11 @@ Step 2: Load the Dataset
 
 2. Click Get Data
 
-   <img width="1883" height="999" alt="image" src="https://github.com/user-attachments/assets/4fa966b1-4628-4c2e-a662-d3a06c0d2523" />
+<img width="1883" height="999" alt="image" src="https://github.com/user-attachments/assets/4fa966b1-4628-4c2e-a662-d3a06c0d2523" />
 
 3. Select Text/CSV
  
-   <img width="1700" height="942" alt="image" src="https://github.com/user-attachments/assets/6931c3f3-0677-4c92-9372-7a49a642ed73" />
+<img width="1700" height="942" alt="image" src="https://github.com/user-attachments/assets/6931c3f3-0677-4c92-9372-7a49a642ed73" />
 
 
 4. Browse and select:
@@ -37,7 +37,7 @@ Step 3: Verify Data in Data View
 
 1. Click the Data View icon (table icon on the left)
    
-   <img width="580" height="617" alt="image" src="https://github.com/user-attachments/assets/6ae176c6-d341-465d-88c5-7d0d13563476" />  
+<img width="580" height="617" alt="image" src="https://github.com/user-attachments/assets/6ae176c6-d341-465d-88c5-7d0d13563476" />  
 
 3. Check:
    
@@ -48,7 +48,7 @@ Step 3: Verify Data in Data View
    ○ Is “Sales” formatted as Decimal Number? yes
    
 
-   <img width="627" height="376" alt="image" src="https://github.com/user-attachments/assets/f1ae2c51-ce9c-46db-8bdb-4edf3d2ee4d8" />
+<img width="627" height="376" alt="image" src="https://github.com/user-attachments/assets/f1ae2c51-ce9c-46db-8bdb-4edf3d2ee4d8" />
 1. Click the column
    
 2. Go to Column Tools
@@ -82,7 +82,7 @@ PART 3: Creating Auto-Generated Visuals
 Step 1: Quick Visualization
 
 1. Drag Sales into canvas
-   <img width="1919" height="786" alt="image" src="https://github.com/user-attachments/assets/c5481c11-56b3-43f4-9095-d0acc2d9a9ad" />
+<img width="1919" height="786" alt="image" src="https://github.com/user-attachments/assets/c5481c11-56b3-43f4-9095-d0acc2d9a9ad" />
 
 2. Power BI automatically creates a visual
 Question:
@@ -102,7 +102,7 @@ Step 2: Create a Sales by Region Chart
 
 2. Select Clustered Column Chart
 
-    <img width="1918" height="769" alt="image" src="https://github.com/user-attachments/assets/e6a4a676-ad95-4c79-b07d-fb34d759e3d0" />
+<img width="1918" height="769" alt="image" src="https://github.com/user-attachments/assets/e6a4a676-ad95-4c79-b07d-fb34d759e3d0" />
 
 4. Drag:
 
@@ -154,11 +154,31 @@ Question:
 
 *Is there growth?
 
-answer:
+answer:no
 
 *Any noticeable trends?
 
+answer:The chart shows a sharp, linear decline in sales from approximately 0.2M in 2024 to nearly zero in 2025.
+
+PART 4: Basic Data Insight Interpretation
+
+Students must now interpret visuals.
+
+Question:
+
+● Which region contributes most revenue?
+
+answer: west region
+
+● Which product category performs best?
+
+answer:Electronics
+
+● Are sales consistent across dates?
+
 answer:
+
+● What business recommendation can you suggest?
 
 
    
