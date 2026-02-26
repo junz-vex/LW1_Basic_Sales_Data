@@ -296,7 +296,111 @@ Task 4: Identify Outliers
 
 ● Which region is significantly higher or lower?
 
+Answer:The North region has significantly higher sales compared to other areas, while the South region shows the lowest overall performance.
+
 ● What might explain that difference?
+
+answer:The regional sales difference might be explained by a larger customer base and more established distribution networks in the North compared to the South, or potentially by incomplete data reporting for the Southern territory.
+
+Deliverables
+
+Students must submit:
+
+1. Screenshot of:
+
+○ Every step output in every Part number
+
+○ Sales by Region chart
+
+○ Sales by Category chart
+
+○ Line Chart
+
+○ Card visualization
+
+2. Answer sheet (Questions Part A & B)
+
+3. One-page insight summary (minimum 5 insights)
+
+
+
+Grading Rubric (Laboratory Work 1)
+
+Criteria Points
+
+Correct Data Loading 15
+
+Correct Visualizations 25
+
+Accuracy of Analysis 25
+
+Insight Quality 20
+
+Enhancement Completion 15
+
+Total 100
+
+
+
+Activity Submission Instructions
+
+1. Upload All Screenshots
+
+○ Capture clear and complete screenshots of all required outputs and activity results.
+
+○ Upload all screenshots to your GitHub repository.
+
+○ Organize the screenshots properly (e.g., create a folder named screenshots if
+
+necessary).
+
+
+
+2. Update the README.md File
+
+○ Edit your repository’s README.md file.
+
+○ Include all screenshots in the README using proper Markdown image formatting.
+
+○ Ensure each screenshot is properly labeled with a brief description explaining what it
+
+represents.
+
+
+
+3. Answer All Guide Questions
+
+○ All activity questions must be answered directly in the README.md file.
+
+○ Provide clear, complete, and well-explained answers.
+
+○ Use proper formatting (headings, bullet points, numbered lists) to organize your
+
+responses.
+
+
+
+4. Formatting and Organization
+
+
+
+○ Structure your README clearly using appropriate section headers (e.g., ##
+
+Activity Title, ## Screenshots, ## Answers to Questions, etc.).
+
+○ Ensure the content is neat, readable, and professionally presented.
+
+○ Review your work for grammar, spelling, and completeness before submission.
+
+5. Final Check
+
+○ Confirm that your GitHub repository is accessible.
+
+○ Make sure all screenshots are properly displayed (not broken links).
+
+○ Verify that all questions have been answered.
+
+
 
 
 
