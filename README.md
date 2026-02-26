@@ -176,10 +176,11 @@ answer:Electronics
 
 ● Are sales consistent across dates?
 
-answer:
+answer:No, sales are not consistent across dates because the data for 2025 is currently limited to the month of January, causing a misleadingly sharp drop compared to the full year of 2024.
 
 ● What business recommendation can you suggest?
 
+answer:recommendation is to adjust the report to compare Year-to-Date (YTD) performance (e.g., January 2024 vs. January 2025) to avoid the "cliff effect" caused by comparing a full year of historical data against an incomplete current year.
 
    
 
