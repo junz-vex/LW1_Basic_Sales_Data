@@ -264,7 +264,22 @@ Question:
 
 ● What happens to other visuals when you click a region?
 
+answer:When you click a region, the other visuals are cross-filtered or cross-highlighted to display data exclusively for that selection, which is important in BI because it allows users to isolate specific segments for more granular analysis.
+
 ● Why is filtering important in BI?
+
+answer:Filtering is important in BI because it allows users to isolate specific data subsets, such as a single region or product, to uncover granular insights and ensure accurate comparisons that would otherwise be obscured by high-level totals.
+
+Task 3: Sort Sales
+
+1. Click Region Chart
+
+2. Click three dots (...)
+
+3. Sort by Sales Descending
+
+<img width="678" height="297" alt="image" src="https://github.com/user-attachments/assets/7737bf53-128f-4d7d-b962-e33adc6d530f" />
+
 
 
    
