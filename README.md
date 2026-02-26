@@ -77,6 +77,7 @@ Step 2: Create a Sales by Region Chart
 
 Question:
 *Is there growth?
+
 *Any noticeable trend?
    
 
