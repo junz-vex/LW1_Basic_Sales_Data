@@ -281,6 +281,24 @@ Task 3: Sort Sales
 <img width="678" height="297" alt="image" src="https://github.com/user-attachments/assets/7737bf53-128f-4d7d-b962-e33adc6d530f" />
 
 
+Question:
+● Does sorting improve readability?
+
+Answer:Sorting improves readability by organizing data into a logical sequence, such as chronological or numerical order, which allows users to quickly identify high or low performers and recognize patterns without scanning every row.
+
+● Why?
+
+answer:
+Sorting improves readability because it organizes data into a logical sequence such as chronological or numerical order—allowing the eye to immediately identify peak performers, outliers, and patterns without manually scanning every row.
+
+
+Task 4: Identify Outliers
+
+● Which region is significantly higher or lower?
+
+● What might explain that difference?
+
+
 
    
 
