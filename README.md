@@ -74,6 +74,10 @@ Step 2: Create a Sales by Region Chart
 ○ Region → X-axis
 
 ○ Sales → Values
+
+*Which region has the highest sale?
+
+answer: West
 <img width="1900" height="732" alt="image" src="https://github.com/user-attachments/assets/1c9f47d3-06b1-4cab-ab0c-5e1dfd22fe2a" />
 
 Question:
