@@ -78,7 +78,19 @@ Step 2: Create a Sales by Region Chart
 *Which region has the highest sale?
 
 answer: West
-<img width="1900" height="732" alt="image" src="https://github.com/user-attachments/assets/1c9f47d3-06b1-4cab-ab0c-5e1dfd22fe2a" />
+
+Step 3: Sales by Category:
+
+
+1. Insert a Pie Chart
+   
+2.  Drag:
+   
+*Category → Legend
+
+*Sales → Values
+
+<img width="949" height="414" alt="image" src="https://github.com/user-attachments/assets/5f712105-db0d-46df-9597-0280863c475c" />
 
 Question:
 
